@@ -1,0 +1,21 @@
+# job.yaml
+job:
+    package-manager: npm_and_yarn
+    allowed-updates:
+      - update-type: all
+    security-advisories:
+      - dependency-name: express
+        affected-versions:
+          - <5.0.0
+        patched-versions: []
+        unaffected-versions: []
+    security-updates-only: true
+    source:
+        provider: github
+        repo: dependabot/smoke-tests
+        directory: /
+        commit: 66115359e6f6cc3af6a661c5d5ae803720b98cb8
+credentials:
+  - type: npm_registry
+    registry: https://npm.pkg.github.com
+    token: $LOCAL_GITHUB_ACCESS_TOKEN
