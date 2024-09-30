@@ -6,7 +6,7 @@ This monorepo is a collection of accounts-related packages used across multiple 
 
 - [How to release](./docs/how-to-release.md)
 
-## Modules
+## Modules 
 
 This repository contains the following packages [^fn1]:
 
