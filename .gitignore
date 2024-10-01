@@ -71,6 +71,8 @@ node_modules/
 .pnp.*
 .yarn/*
 !.yarn/patches
+!.yarn/cache
+.yarn/cache/*
 !.yarn/plugins
 !.yarn/releases
 !.yarn/sdks
