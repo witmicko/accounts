@@ -7,7 +7,5 @@ updates:
     directory: '/'
     schedule:
       interval: 'daily'
-    allow:
-      - dependency-name: '@metamask/*'
     versioning-strategy: 'increase'
     
