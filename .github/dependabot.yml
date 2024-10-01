@@ -3,10 +3,12 @@
 
 version: 2
 updates:
-  - package-ecosystem: 'npm'
+  - package-ecosystem: 'yarn'
     directory: '/'
     schedule:
       interval: 'daily'
     allow:
       - dependency-name: '@metamask/*'
     versioning-strategy: 'increase'
+    run_post_update_command: "yarn install"
+
