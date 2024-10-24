@@ -50,7 +50,7 @@
     "@metamask/auto-changelog": "^3.4.4",
     "@metamask/providers": "^17.2.0",
     "@types/jest": "^29.5.12",
-    "@types/node": "^20.12.12",
+    "@types/node": "^20.17.0",
     "@types/webextension-polyfill": "^0.12.1",
     "deepmerge": "^4.2.2",
     "depcheck": "^1.4.7",

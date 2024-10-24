@@ -47,7 +47,7 @@
     "@metamask/auto-changelog": "^3.4.4",
     "@types/ethereumjs-tx": "^1.0.1",
     "@types/jest": "^29.5.12",
-    "@types/node": "^20.12.12",
+    "@types/node": "^20.17.0",
     "@types/randombytes": "^2.0.0",
     "deepmerge": "^4.2.2",
     "depcheck": "^1.4.7",
