@@ -67,7 +67,7 @@
     "@metamask/providers": "^17.2.0"
   },
   "engines": {
-    "node": "^18.18 || >=20"
+    "node": "23.9.0"
   },
   "publishConfig": {
     "access": "public",
