@@ -1906,7 +1906,7 @@ __metadata:
     "@types/hdkey": "npm:^2.0.1"
     "@types/jest": "npm:^29.5.12"
     "@types/node": "npm:^20.12.12"
-    "@types/web": "npm:^0.0.69"
+    "@types/web": "npm:^0.0.347"
     deepmerge: "npm:^4.2.2"
     depcheck: "npm:^1.4.7"
     ethereumjs-tx: "npm:^1.3.7"
@@ -3428,10 +3428,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/web@npm:^0.0.69":
-  version: 0.0.69
-  resolution: "@types/web@npm:0.0.69"
-  checksum: 10/676c83e1d367d5f56619ed34c6ba50cccd5c394b5474dddaccb9e7dc7e121f26748d377c248da8a7eee106f87688239dd0027d087e3e09e9918f03b7c6082e92
+"@types/web@npm:^0.0.347":
+  version: 0.0.347
+  resolution: "@types/web@npm:0.0.347"
+  checksum: 10/26260d7e71d20f2ca43aa04ef6d48513ea6eb5159585dd368ed111cb1d6c15c5ba4f401be5bae9aad17c7e4afc5369c0c96c036ea8d177a03ff42dc0e147de82
   languageName: node
   linkType: hard
 
