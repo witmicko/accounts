@@ -7,10 +7,6 @@ on:
   pull_request:
   workflow_dispatch:
 
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: ${{ !(contains(github.ref, 'refs/heads/main') || contains(github.ref, 'refs/heads/stable')) }}
-
 jobs:
   run-security-scan:
     uses: MetaMask/action-security-code-scanner/.github/workflows/security-scan.yml@feat-add-zizmor
