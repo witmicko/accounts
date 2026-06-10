@@ -9,14 +9,14 @@ on:
 
 jobs:
   run-security-scan:
-    uses: MetaMask/action-security-code-scanner/.github/workflows/security-scan.yml@main
+    uses: MetaMask/action-security-code-scanner/.github/workflows/security-scan.yml@fix-zizmor-opional
     permissions:
       actions: read
       contents: read
       security-events: write
     with:
       repo: ${{ github.repository }}
-      scanner-ref: main
+      scanner-ref: fix-zizmor-opional
       paths-ignored: |
         test/
         docs/
