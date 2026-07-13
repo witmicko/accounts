@@ -1879,7 +1879,7 @@ __metadata:
     "@metamask/scure-bip39": "npm:^2.1.1"
     "@metamask/utils": "npm:^9.2.1"
     "@types/jest": "npm:^29.5.12"
-    deepmerge: "npm:^4.2.2"
+    deepmerge: "npm:^4.3.1"
     ethereum-cryptography: "npm:^2.1.2"
     jest: "npm:^29.5.0"
   languageName: unknown
@@ -1907,7 +1907,7 @@ __metadata:
     "@types/jest": "npm:^29.5.12"
     "@types/node": "npm:^20.12.12"
     "@types/web": "npm:^0.0.69"
-    deepmerge: "npm:^4.2.2"
+    deepmerge: "npm:^4.3.1"
     depcheck: "npm:^1.4.7"
     ethereumjs-tx: "npm:^1.3.7"
     hdkey: "npm:^2.1.0"
@@ -1973,7 +1973,7 @@ __metadata:
     "@types/jest": "npm:^29.5.12"
     "@types/node": "npm:^20.12.12"
     "@types/randombytes": "npm:^2.0.0"
-    deepmerge: "npm:^4.2.2"
+    deepmerge: "npm:^4.3.1"
     depcheck: "npm:^1.4.7"
     ethereum-cryptography: "npm:^2.1.2"
     ethereumjs-tx: "npm:^1.3.7"
@@ -2003,7 +2003,7 @@ __metadata:
     "@types/jest": "npm:^29.5.12"
     "@types/node": "npm:^20.12.12"
     "@types/uuid": "npm:^9.0.8"
-    deepmerge: "npm:^4.2.2"
+    deepmerge: "npm:^4.3.1"
     depcheck: "npm:^1.4.7"
     jest: "npm:^29.5.0"
     jest-it-up: "npm:^3.1.0"
@@ -2037,7 +2037,7 @@ __metadata:
     "@types/node": "npm:^20.12.12"
     "@types/sinon": "npm:^17.0.3"
     "@types/w3c-web-usb": "npm:^1.0.6"
-    deepmerge: "npm:^4.2.2"
+    deepmerge: "npm:^4.3.1"
     depcheck: "npm:^1.4.7"
     ethereumjs-tx: "npm:^1.3.7"
     hdkey: "npm:^2.1.0"
@@ -2118,7 +2118,7 @@ __metadata:
     "@types/uuid": "npm:^9.0.8"
     "@types/webextension-polyfill": "npm:^0.12.1"
     bech32: "npm:^2.0.0"
-    deepmerge: "npm:^4.2.2"
+    deepmerge: "npm:^4.3.1"
     depcheck: "npm:^1.4.7"
     jest: "npm:^29.5.0"
     jest-it-up: "npm:^3.1.0"
@@ -5154,6 +5154,13 @@ __metadata:
   version: 4.2.2
   resolution: "deepmerge@npm:4.2.2"
   checksum: 10/0e58ed14f530d08f9b996cfc3a41b0801691620235bc5e1883260e3ed1c1b4a1dfb59f865770e45d5dfb1d7ee108c4fc10c2f85e822989d4123490ea90be2545
+  languageName: node
+  linkType: hard
+
+"deepmerge@npm:^4.3.1":
+  version: 4.3.1
+  resolution: "deepmerge@npm:4.3.1"
+  checksum: 10/058d9e1b0ff1a154468bf3837aea436abcfea1ba1d165ddaaf48ca93765fdd01a30d33c36173da8fbbed951dd0a267602bc782fe288b0fc4b7e1e7091afc4529
   languageName: node
   linkType: hard
 
