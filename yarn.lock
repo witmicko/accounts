@@ -1903,7 +1903,7 @@ __metadata:
     "@metamask/eth-sig-util": "npm:^7.0.3"
     "@metamask/utils": "npm:^9.2.1"
     "@types/ethereumjs-tx": "npm:^1.0.1"
-    "@types/hdkey": "npm:^2.0.1"
+    "@types/hdkey": "npm:^2.1.0"
     "@types/jest": "npm:^29.5.12"
     "@types/node": "npm:^20.12.12"
     "@types/web": "npm:^0.0.69"
@@ -2032,7 +2032,7 @@ __metadata:
     "@trezor/connect-plugin-ethereum": "npm:^9.0.3"
     "@trezor/connect-web": "npm:^9.1.11"
     "@types/ethereumjs-tx": "npm:^1.0.1"
-    "@types/hdkey": "npm:^2.0.1"
+    "@types/hdkey": "npm:^2.1.0"
     "@types/jest": "npm:^29.5.12"
     "@types/node": "npm:^20.12.12"
     "@types/sinon": "npm:^17.0.3"
@@ -3216,12 +3216,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/hdkey@npm:^2.0.1":
-  version: 2.0.3
-  resolution: "@types/hdkey@npm:2.0.3"
+"@types/hdkey@npm:^2.1.0":
+  version: 2.1.0
+  resolution: "@types/hdkey@npm:2.1.0"
   dependencies:
     "@types/node": "npm:*"
-  checksum: 10/6374aa572bb07d47c817e892c3e2ec86462e68cd67f8ee6744c11d8631f79f993682de9d9f2a109f5bad423087aec40086becd9b97a6d1571b0ba2d727690d2c
+  checksum: 10/608f6169b7f147f2c47ab215d4fb910e2eff5f4d8c1b294271a411f186f75f6519b27107b667f84e853f668e51ed6cb9defe0a9fdcefbbdc378c26b354d3cb41
   languageName: node
   linkType: hard
 
