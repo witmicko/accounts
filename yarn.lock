@@ -2029,7 +2029,7 @@ __metadata:
     "@lavamoat/preinstall-always-fail": "npm:^2.1.0"
     "@metamask/auto-changelog": "npm:^3.4.4"
     "@metamask/eth-sig-util": "npm:^7.0.3"
-    "@trezor/connect-plugin-ethereum": "npm:^9.0.3"
+    "@trezor/connect-plugin-ethereum": "npm:^9.1.5"
     "@trezor/connect-web": "npm:^9.1.11"
     "@types/ethereumjs-tx": "npm:^1.0.1"
     "@types/hdkey": "npm:^2.0.1"
@@ -2876,13 +2876,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@trezor/connect-plugin-ethereum@npm:^9.0.3":
-  version: 9.0.3
-  resolution: "@trezor/connect-plugin-ethereum@npm:9.0.3"
+"@trezor/connect-plugin-ethereum@npm:^9.1.5":
+  version: 9.1.5
+  resolution: "@trezor/connect-plugin-ethereum@npm:9.1.5"
   peerDependencies:
-    "@metamask/eth-sig-util": ^7.0.1
+    "@metamask/eth-sig-util": ^8.2.0
     tslib: ^2.6.2
-  checksum: 10/b4742ce31a75877c7240a0e7dcb4f77c4b26d007b1d3780b98517e03d2177eeead532fbfcfbd54d83e31ebd8397cccf3fde7e86f3eb9e92651edc7edb6c2b65c
+  checksum: 10/f8b99b30d2d6beeb04b221ecbb068331e5a43cfd373c70196fa0126d033d1db8345341ee6fd82d2f1857ad7af43dff9726f57928574f7e56dfaaaeb2b4d383ea
   languageName: node
   linkType: hard
 
